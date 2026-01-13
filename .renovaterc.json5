@@ -1,5 +1,6 @@
 {
   $schema: "https://docs.renovatebot.com/renovate-schema.json",
+  "username": "roboto-le-robot[bot]"
   extends: [
     "local>mdallaire/renovate-config"
   ]
